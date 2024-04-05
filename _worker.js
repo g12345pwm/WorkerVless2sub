@@ -65,7 +65,7 @@ let addressesnotls = [
 'gur.gov.ua:80#优选优选域名',
 'www.zsu.gov.ua:80#优选优选域名',
 'www.iakeys.com:80#优选优选域名',
-'edtunnel-dgp.pages.dev
+'edtunnel-dgp.pages.dev:80#优选优选域名',
 'www.d-555.com:80#优选优选域名',
 'fbi.gov:80#优选优选域名',
 ];
