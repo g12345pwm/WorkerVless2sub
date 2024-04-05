@@ -32,9 +32,9 @@ let addressesnotls = [
 'singapore.com:80#优选优选域名',
 'skk.moe:80#优选优选域名',
 'www.visa.com:80#优选优选域名',
-'www.visa.com:80#优选优选域名',.sg
-'www.visa.com:80#优选优选域名',.hk
-'www.visa.com:80#优选优选域名',.tw
+'www.visa.com.sg:80#优选优选域名',
+'www.visa.com.hk:80#优选优选域名',
+'www.visa.com.tw:80#优选优选域名',
 'www.visa.co.jp:80#优选优选域名',
 'www.visakorea.com:80#优选优选域名',
 'www.gco.gov.qa:80#优选优选域名',
@@ -43,7 +43,7 @@ let addressesnotls = [
 'www.digitalocean.com:80#优选优选域名',
 'www.csgo.com:80#优选优选域名',
 'www.shopify.com:80#优选优选域名',
-'www.whoer.ne:80#优选优选域名',t
+'www.whoer.net:80#优选优选域名',
 'www.whatismyip.com:80#优选优选域名',
 'www.ipget.net:80#优选优选域名',
 'www.hugedomains.com:80#优选优选域名',
